@@ -2,8 +2,7 @@
     "title": "Zenith Software Landing",
     "name": "znthsft01",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch",
-        "build":"webpack"
+        "start": "node_modules/.bin/gulp watch"
     },
     "engines": {
         "npm": "6.12",
