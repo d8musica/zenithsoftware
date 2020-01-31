@@ -1,13 +1,12 @@
 {
     "title": "Zenith Software Landing",
-    "name": "ZenithSoftware",
-    "version": "1.0",
+    "name": "znthsft01",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
     "engines": {
         "node": "12.13.0"
-      },
+    },
     "description": "An HTML landing page built with Bootstrap",
     "keywords": [
         "css",
@@ -27,7 +26,6 @@
     "contributors": [
         "Zenith Software"
     ],
-    
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
