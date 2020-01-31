@@ -1,10 +1,13 @@
 {
     "title": "Zenith Software Landing",
-    "name": "Zenith Software",
+    "name": "ZenithSoftware",
     "version": "1.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
+    "engines": {
+        "node": "12.13.0"
+      },
     "description": "An HTML landing page built with Bootstrap",
     "keywords": [
         "css",
