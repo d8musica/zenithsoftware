@@ -5,8 +5,8 @@
         "start": "node_modules/.bin/gulp watch"
     },
     "engines": {
-        "npm": "v6.7.0",
-        "node": "v11.15.0"
+        "npm": "6.7.0",
+        "node": "11.15.0"
     },
     "description": "An HTML landing page built with Bootstrap",
     "keywords": [
