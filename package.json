@@ -2,9 +2,11 @@
     "title": "Zenith Software Landing",
     "name": "znthsft01",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "build":"webpack"
     },
     "engines": {
+        "npm": "6.0",
         "node": "12.13.0"
     },
     "description": "An HTML landing page built with Bootstrap",
